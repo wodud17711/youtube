@@ -5,6 +5,6 @@
 - axios 설치 명령어 `npm install axios`
 - react-icons 설치 명령어 `npm install react-icons`
 - react-player 설치 명령어 `npm install react-player`
-- sass 성치 명령어 `npm install sass`
+- sass 설치 명령어 `npm install sass`
 - react-helmet-async 설치 명령어 `npm install react-helmet-async`
-- swiper 성치 명령어 `npm install swiper`
+- swiper 설치 명령어 `npm install swiper`
