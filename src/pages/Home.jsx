@@ -1,21 +1,23 @@
 import React from 'react'
 import Main from '../components/section/Main'
-import Anime from '../components/contents/Anime'
 import Today from '../components/contents/today'
 import Music from '../components/contents/Music'
-import Movie from '../components/contents/Movie'
-import Book from '../components/contents/Book'
+import VideoSlider from '../components/video/VideoSlider'
+import { movieText } from '../data/movie'
+import { bookText } from '../data/book'
+import { animeText } from '../data/anime'
 
 const Home = () => {
   return (
     <Main>
       <Today/>
       <Music/>
-      <Movie/>
-      <Book/>
-      <Anime/>
+      <VideoSlider videos={movieText} title='🎞 추천 영화입니다' id='movie'/>
+      <VideoSlider videos={bookText} title='📔 추천 도서입니다' id='book'/>
+      <VideoSlider videos={animeText} title='🎭 추천 애니입니다' id='anime'/>
     </Main>
   )
 }
+
 
 export default Home

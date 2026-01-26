@@ -7,7 +7,7 @@ const Today = () => {
   return (
     <section id='today'>
         <div className='today__inner'>
-            <div className='today__thumb'>
+            <div className='today__thumb play__icon'>
                 <Link to={todayText[0].page}>
                     <img src={todayText[0].img} alt={todayText[0].title}/>
                 </Link>
@@ -19,7 +19,7 @@ const Today = () => {
                         {todayText[0].title}
                     </Link>
                 </h3>
-                <p className='desc'>{}todayText[0].desc</p>
+                <p className='desc'>{todayText[0].desc}</p>
                 <div className='info'>
                     <span className='author'>
                         <Link to={`/channel/${todayText[0].channelID}`}>
