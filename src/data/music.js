@@ -63,31 +63,31 @@ channelId: "UCnmF6Fy8t1aIDl5jlLqSAqw"
 img: "https://yt3.googleusercontent.com/lM8HHBd5BZtP_-Dh1i3n1Z4teVW8v2KTG-hsS83yXUiK0K6krkk1XNEFbho3uwH-CS-FQpnlHw=s160-c-k-c0x00ffffff-no-rj",
 name: "Lady Gaga",
 channelAddress: "https://www.youtube.com/watch?v=kPa7bsKwL-c",
-channelID: "UCNL1ZadSjHpjm4q9j2sVtOA"
+channelId: "UCNL1ZadSjHpjm4q9j2sVtOA"
 },
 {
 img: "https://yt3.googleusercontent.com/kRPNSMT2Rs1WE0mGknQHoL1kC5DCVYuPdaDiSHWbidCBZGSxnNYy964SsQ2saY4IAlvG5iBW=s160-c-k-c0x00ffffff-no-rj",
 name: "Tom Grennan",
 channelAddress: "https://www.youtube.com/watch?v=SsdkvYdSzlg&list=RDSsdkvYdSzlg&start_radio=1",
-channelID: "UCjtK2di7aJovtPXe1m42ylA"
+channelId: "UCjtK2di7aJovtPXe1m42ylA"
 },
 {
 img: "https://yt3.googleusercontent.com/g-B-MDlPttQJCio0Z-2Sr9SwAsJDIgsgVxPG5_zQFbCvZt7ZFoQQIQp9TBFjqw4Orgg_BSG_zA=s160-c-k-c0x00ffffff-no-rj",
 name: "5SOS",
 channelAddress: "https://www.youtube.com/watch?v=-RJSbO8UZVY&list=RD-RJSbO8UZVY&start_radio=1",
-channelID: "UC-vKwDHcbPLtjml81ohGRng"
+channelId: "UC-vKwDHcbPLtjml81ohGRng"
 },
 {
 img: "https://yt3.googleusercontent.com/AI1Y-Z_HVxIvVOhxhON46eKWUcKjRrhrK7OVrnfPM-5uq3lihpxtf6CvuJr_lklsIuER65jMAQ=s160-c-k-c0x00ffffff-no-rj",
 name: "Sia",
 channelAddress: "https://www.youtube.com/watch?v=h6Ol3eprKiw&list=RDh6Ol3eprKiw&start_radio=1",
-channelID: "UCN9HPn2fq-NL8M5_kp4RWZQ"
+channelId: "UCN9HPn2fq-NL8M5_kp4RWZQ"
 },
 {
 img:"https://yt3.googleusercontent.com/a7TXZUBAchqREjgCtV9oOiNWlf56JdR95sHZDHv-P-qFetjJHScxI1tHrJsZV8KhmoKGOn6NqQ=s160-c-k-c0x00ffffff-no-rj",
 name: "OneRepublic",
 channelAddress: "https://www.youtube.com/watch?v=hT_nvWreIhg&list=RDhT_nvWreIhg&start_radio=1",
-channelID: "UCQ5kHOKpF3-1_UCKaqXARRg"
+channelId: "UCQ5kHOKpF3-1_UCKaqXARRg"
 },
 {
 img: 'https://yt3.googleusercontent.com/IOaGPbhLDUmdMgFAYVgP2CojQPlS8J7kXlxsmUNyqvSAYB9wpgZSjgKur2n7XAbYmYbpBp5RQg=s160-c-k-c0x00ffffff-no-rj',
@@ -128,17 +128,17 @@ channelId:"UCuGOvuS-t2Z8lgUj5FFfWHA"
 {img:"https://yt3.ggpht.com/Zzk5cgLrMpIk6Ml-FVU2SMVC3NcqLgXAC1XHDnQTsEaEdEhwT0lPctDjoHcemTUDDRnn95C9UR4=s88-c-k-c0x00ffffff-no-rj",
 name:"Yiruma",
 channelAddress:"https://www.youtube.com/channel/UCj16_sROSTrwMSWW88fOJeg",
-channelid:"UC2pmfLm7iq6Ov1UwYrWYkZA"
+channelId:"UC2pmfLm7iq6Ov1UwYrWYkZA"
 },
 {img:"https://yt3.ggpht.com/ytc/AIdro_nHZ3aRBe6u7WNvouHkXfdP5J1mo1kwdp9EzLmDkSahXW4=s88-c-k-c0x00ffffff-no-rj",
 name:"Yuhki Kuramoto",
 channelAdress:"https://www.youtube.com/@crediatv",
-channelid:"UCpt7Aq_OaIAC0bBBctGJBCQ"
+channelId:"UCpt7Aq_OaIAC0bBBctGJBCQ"
 },
 {img:"https://yt3.ggpht.com/ytc/AIdro_nWgeLHd5cgvS6Y4tHroWOW665Pv41PE2zcatQCcX2i5A=s88-c-k-c0x00ffffff-no-rj",
 name:"DJ Okawari",
 channelAdress:"https://www.youtube.com/@Bob42jh",
-channelid:"UC0uEMc75boGUb-2CrNTO_5Q"
+channelId:"UC0uEMc75boGUb-2CrNTO_5Q"
 },
 {
 img:"https://yt3.ggpht.com/ytc/AIdro_mMIOmh4wMIoC6VrKI7X2GfDqKIMzi1e0mobnu6hqfN3QrD=s88-c-k-c0x00ffffff-no-rj",

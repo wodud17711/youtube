@@ -100,36 +100,36 @@ datachannelId: 'UCGXHKyKFWJWNd-kb08eAt9w'
 title: "극한직업",
 img: movie11,
 author: "교양 Voyage",
-videoID: "9D8su0wKVS4",
-datachannelID: "UCe8HrlhMkYlQ_61EjrrQlHw"
+videoId: "9D8su0wKVS4",
+datachannelId: "UCe8HrlhMkYlQ_61EjrrQlHw"
 },
 {
 title: "엑시트",
 img: movie12,
 author: "CJ ENM Movie",
-videoID: "li4jOV5j7SI",
-datachannelID: "UCRV0Gb4i99Aj9UiqCE8xlvw"
+videoId: "li4jOV5j7SI",
+datachannelId: "UCRV0Gb4i99Aj9UiqCE8xlvw"
 },
 {
 title: "시민덕희",
 img: movie13,
 author: "출발! 비디오여행 : MBC 공식 채널",
-videoID: "IpIzPu_sMU4",
-datachannelID: "UC5biYYSX5sh4QR98ekCd8KA"
+videoId: "IpIzPu_sMU4",
+datachannelId: "UC5biYYSX5sh4QR98ekCd8KA"
 },
 {
 title: "신과함께: 인과 연",
 img: movie14,
 author: "4DX KOREA",
-videoID: "M0bnzrOOH74",
-datachannelID: "UCMso3pzIb4bb9u-zcFPZsMQ"
+videoId: "M0bnzrOOH74",
+datachannelId: "UCMso3pzIb4bb9u-zcFPZsMQ"
 },
 {
 title: "육사오",
 img: movie15,
 author: "김무경",
-videoID: "zkklDo_A-7I",
-datachannelID: "UCCPSlxuHmhJ1nQQH3myS6Ig"
+videoId: "zkklDo_A-7I",
+datachannelId: "UCCPSlxuHmhJ1nQQH3myS6Ig"
 },
 {
 title: "투모로우",

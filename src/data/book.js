@@ -99,36 +99,36 @@ export const bookText = [
         title: "룬의 아이들: 윈터러",
         img: book11,
         author: "오남중 오도독",
-        videoID: "isvGNj1ra9Q",
-        datachannelID: "UClKq1ZaddMJFfdYzfeePrLw"
+        videoId: "isvGNj1ra9Q",
+        datachannelId: "UClKq1ZaddMJFfdYzfeePrLw"
     },
     {
         title: "해리포터",
         img: book12,
         author: "지식트리",
-        videoID: "JewJGyeo7UU",
-        datachannelID: "UCJiiLereS9xNAVjdPTChM8A"
+        videoId: "JewJGyeo7UU",
+        datachannelId: "UCJiiLereS9xNAVjdPTChM8A"
     },
     {
         title: "변신",
         img: book13,
         author: "EBSi",
-        videoID: "CZbRcKbPwiQ",
-        datachannelID: "UCDkTanNuZGwYtf-Y6_xBmqw"
+        videoId: "CZbRcKbPwiQ",
+        datachannelId: "UCDkTanNuZGwYtf-Y6_xBmqw"
     },
     {
         title: "마음챙김의 시",
         img: book14,
         author: "책읽는다락방 J",
-        videoID: "zrdkfMOzD7c",
-        datachannelID: "UCFgsa4kjz6P0MLQHEvQpsRQ"
+        videoId: "zrdkfMOzD7c",
+        datachannelId: "UCFgsa4kjz6P0MLQHEvQpsRQ"
     },
     {
         title: "반지의 제왕",
         img: book15,
         author: "제가봤을때",
-        videoID: "LsKU4QCUsUY",
-        datachannelID: "UChGsAITKLef8JZSSH8cqUCA"
+        videoId: "LsKU4QCUsUY",
+        datachannelId: "UChGsAITKLef8JZSSH8cqUCA"
     },
     {
         title: "혈당 스파이크 ZERO",

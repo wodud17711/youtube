@@ -29,35 +29,35 @@ export const animeText = [
         img: anime01,
         auther: "도토리군",
         videoId: "zNOQuo0_U8k",
-        datachnnelID: "UCG5KF8qimTCNUCB0GQvFWag"
+        datachnnelId: "UCG5KF8qimTCNUCB0GQvFWag"
     },
     {
         title: "최애의 아이",
         img: anime02,
         auther: "우이령",
         videoId: "sIQ1fA98gk",
-        datachnnelID: "UCNrCt7Om9Txz3NrYzmpOzrQ"
+        datachnnelId: "UCNrCt7Om9Txz3NrYzmpOzrQ"
     },
     {
         title: "마왕의 딸은 너무 친절해",
         img: anime03,
         auther: "작은방 덕후",
         videoId: "dBIDWsOqb_o",
-        datachnnelID: "UCOxAfDaiOuJHyiKBo6TBjXA"
+        datachnnelId: "UCOxAfDaiOuJHyiKBo6TBjXA"
     },
     {
         title: "캐릭캐릭체인지",
         img: anime04,
         auther: "스밍스",
         videoId: "giwnQBiDwEo",
-        datachnnelID: "UCi38W5tDHRB9CYMSYIKColQ"
+        datachnnelId: "UCi38W5tDHRB9CYMSYIKColQ"
     },
     {
         title: "라라의 스타일기",
         img: anime05,
         auther: "데비의 편집점",
         videoId: "MgdPrrh5O_U",
-        datachnnelID: "UC4vEnpbm4V08yxICKPAwdDg"
+        datachnnelId: "UC4vEnpbm4V08yxICKPAwdDg"
     },
     {
         title: "나 혼자만 레벨업",
@@ -98,35 +98,35 @@ export const animeText = [
         title: "루카",
         img: anime11,
         author: "약대시네마",
-        videoID: "Opj-ibjVPJw",
+        videoId: "Opj-ibjVPJw",
         datachannelID: "UC4WKooFxqwPtJNr5X6y2-9w"
     },
     {
         title: "엘리멘탈",
         img: anime12,
         author: "약대시네마",
-        videoID: "feyaQ2PW2o4",
+        videoId: "feyaQ2PW2o4",
         datachannelID: "UC4WKooFxqwPtJNr5X6y2-9w"
     },
     {
         title: "소울",
         img: anime13,
         author: "Disney Korea",
-        videoID: "Q0zFPlArth0",
+        videoId: "Q0zFPlArth0",
         datachannelID: "UCbv7Dcn5iNrAyd3GwgVHkIQ"
     },
     {
         title: "토이스토리",
         img: anime14,
         author: "Disney Korea",
-        videoID: "Ph7p7mpvjCY",
+        videoId: "Ph7p7mpvjCY",
         datachannelID: "UCbv7Dcn5iNrAyd3GwgVHkIQ"
     },
     {
         title: "메이의 새빨간 비밀",
         img: anime15,
         author: "Disney Korea",
-        videoID: "QH3C58X0dR0",
+        videoId: "QH3C58X0dR0",
         datachannelID: "UCbv7Dcn5iNrAyd3GwgVHkIQ"
     },
     {
